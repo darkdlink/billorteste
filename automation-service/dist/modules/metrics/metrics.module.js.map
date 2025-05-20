@@ -1,0 +1,1 @@
+{"version":3,"file":"metrics.module.js","sourceRoot":"","sources":["../../../src/modules/metrics/metrics.module.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,2CAAwC;AACxC,6DAAyD;AACzD,6CAAoD;AAK7C,IAAM,aAAa,GAAnB,MAAM,aAAa;IACxB;QAEE,IAAA,mCAAqB,GAAE,CAAC;IAC1B,CAAC;CACF,CAAA;AALY,sCAAa;wBAAb,aAAa;IAHzB,IAAA,eAAM,EAAC;QACN,WAAW,EAAE,CAAC,sCAAiB,CAAC;KACjC,CAAC;;GACW,aAAa,CAKzB"}

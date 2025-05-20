@@ -1,0 +1,8 @@
+node_modules
+.env
+gpt-service/.env
+gpt-service/.env.development
+prometheus/.env.development
+automation-service/.env
+automation-service/.env.development
+db-scripts/.env.development
